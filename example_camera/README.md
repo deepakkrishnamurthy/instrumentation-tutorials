@@ -11,7 +11,7 @@ sudo apt-get install python3-pyqtgraph
 sudo apt-get install python3-pyqt5
 pip3 install qtpy pyserial
 sudo apt install python3-opencv
- sudo apt install python3-lxml
+sudo apt install python3-lxml
 
 ```
 ### install camera drivers
